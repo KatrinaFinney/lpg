@@ -1,3 +1,4 @@
+'use client';
 // app/preview/page.js
 export default function Preview() {
     return (

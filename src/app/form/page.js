@@ -1,3 +1,4 @@
+'use client';
 // app/form/page.js
 import { useState } from 'react';
 
